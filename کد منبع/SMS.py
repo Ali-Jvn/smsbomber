@@ -31,6 +31,7 @@ print('''
         | Instagram: AmirReza_Delir       |
         |=================================|
 ''')
+
 console = Console()
 console.rule("[bold Blue]App Version 20.22")
 def process_data():
