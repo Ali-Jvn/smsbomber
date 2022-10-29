@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h2>smsbomber</h2>
+<h2 align="center">✉️smsbomber✉️</h2>
 <p dir="ltr">I can boldly say that this tool is the most powerful SMS banner in Iran</p>
 <p dir="ltr">This tool is only educational and has been put on GitHub to increase the science and knowledge of programming</p>
 <ul>
@@ -12,5 +12,3 @@
 <ul><li>هرگونه استفاده نادرست از این ابزار به عهده شماست</li></ul>
 </body>
 </html>
-
-![Screenshot SMSBOMBER](https://user-images.githubusercontent.com/115124097/198712985-3583f4f1-c48f-4365-8038-41ff8c324b4f.png)
