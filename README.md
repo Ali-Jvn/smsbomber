@@ -13,6 +13,9 @@
 	
 pip install requests
 
+pip install Cython
+	
+pip install rich
 
 </body>
 </html>
