@@ -17,6 +17,8 @@ pip install Cython
 	
 pip install rich
 
+<span id="pip-command">pip install requests</span>	
+
 </body>
 </html>
 
