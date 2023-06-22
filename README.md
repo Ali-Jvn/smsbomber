@@ -24,5 +24,5 @@ pip install rich
 
 </body>
 </html>
+![Screenshot 2023-06-22 151110](https://github.com/AmirRezaDelir/smsbomber/assets/115124097/113f99d1-e6aa-49e6-8656-b164605c6d94)
 
-![Screenshot SMSBOMBER](https://user-images.githubusercontent.com/115124097/198847306-09d86d21-335a-452f-bd6e-30cb6f8a2ef2.png)
