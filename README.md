@@ -10,6 +10,9 @@
 <ul><li>مسئولیت هرگونه سوء استفاده از این ابزار به عهده کاربر است</li></ul>
 
 ```
+pip install colorama
+```
+```
 pip install requests
 ```
 ```
